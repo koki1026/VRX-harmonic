@@ -1,0 +1,3 @@
+[submodule "gz-sim-docker"]
+	path = gz-sim-docker
+	url = git@github.com:brean/gz-sim-docker.git
