@@ -1,3 +1,4 @@
 [submodule "gz-sim-docker"]
 	path = gz-sim-docker
 	url = git@github.com:koki1026/gz-sim-docker.git
+	branch = main
